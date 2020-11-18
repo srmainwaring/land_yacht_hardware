@@ -3,7 +3,7 @@
 A land yacht made from aluminium and carbon tube and 3D printed parts.
 
 It is intended as a modular platform for testing sails, wing sails and control software
-for robotic sailing vechicles. It has been successfully used with
+for robotic sailing vehicles. It has been successfully used with
 [ArduPilot](https://ardupilot.org/ardupilot/index.html) using the [Rover](https://ardupilot.org/rover/index.html) vehicle type and [Sailboat](https://ardupilot.org/rover/docs/sailboat-home.html) configuration.  
 
 ## Build
