@@ -16,9 +16,10 @@
 |Steering Servo Mount Plate|	SteeringServoMountPlate_v9.stl|	1|
 |Steering Servo Support|	SteeringServoSupport_v9.stl|	1|
 |Winch Servo Mount Plate|	WinchServoMountPlate_v11.stl|	1|
-|U-Clamp|	UClamp_v4.stl|	8|
+|U-Clamp|	UClamp_v4.stl|	8| 
 
-		
+---
+
 ## Steering Head		
 		
 |PART|	FILE|	QTY|
@@ -27,7 +28,8 @@
 |U-Clamp|	UClamp_v4.stl|	1|
 |Front Tube Plug|	FrontTubePlugV2_v18.stl|	1|
 		
-		
+---
+
 ## Steering Forks		
 		
 |PART|	FILE|	QTY|
@@ -36,6 +38,7 @@
 |Front Fork (Right)| FrontForkRightV4_v21.stl|	1|
 |Front Fork Spacer|	FrontForkSpacerV4_v21.stl|	1|
 		
+---
 		
 ## Wheel		
 		
@@ -45,6 +48,7 @@
 |Wheel (Left)|	SandWheelV3_L_v21.stl|	3|
 |Wheel (Right)|	SandWheelV3_R_v21.stl|	3|
 		
+---
 		
 ## Go-Pro Mount (Hero 2)		
 		
@@ -54,6 +58,7 @@
 |Go-Pro Mount Transverse|	GoProMountTransverse_v22.stl|	1|
 |U-Clamp|	UClamp_v4.stl|	2|
 		
+---
 		
 ## Anemometer Mount (LCJ Capteurs CV7-OEM)		
 		
@@ -64,6 +69,8 @@
 |U-Clamp|	UClamp_v4.stl|	1|
 		
 		
+---
+
 ## Motor Mount (Overlander T3542-05)		
 		
 |PART|	FILE|	QTY|
@@ -71,3 +78,5 @@
 |Motor Mount Plate|	MotorMountPlate_v19.stl|	1|
 |Motor Mount|	MotorMountV2_v21.stl|	1|
 |U-Clamp|	UClamp_v4.stl|	1|
+
+---
